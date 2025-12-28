@@ -1,7 +1,36 @@
-#  SCHOOL PROJECT
+# AI & Machine Learning Course Projects
 
-## Description
-This is a school project I worked on that involved building several early-stage AI programs. The program is written in Python, and I used Pandas to clean the data, I used Seaborn and Matplotlib to visualize some of the file and then used AI to predict certain outcomes. One of my favorites in Unit 1 predicts the survival of passengers on the titanic based on factors like class and gender.
+A collection of early‑stage machine learning projects completed as part of the CS379: Machine Learning and AI coursework. These notebooks and scripts demonstrate foundational workflows in data analysis, visualization, and predictive modeling using widely used Python tools.
 
-## Technologies Used:
-Python, Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Jupyter Notebook
+---
+
+## Overview
+
+This repository contains a set of projects broken into course units focused on applying machine learning concepts using real datasets. Each unit includes Jupyter Notebooks illustrating data preparation, exploration, visualization, and modeling techniques.
+
+Some example tasks include:
+- Predicting survival outcomes (e.g., Titanic dataset)
+- Exploring relationships between features and targets
+- Building basic classification and regression models
+
+This body of work reflects hands‑on practice with machine learning applications early in the learning process.
+
+---
+
+## Technologies Used
+
+- **Python** – core programming language  
+- **Pandas** – data manipulation and analysis  
+- **NumPy** – numerical computing  
+- **Matplotlib** – data visualization  
+- **Seaborn** – statistical visualization  
+- **Scikit‑Learn** – machine learning modeling  
+- **Jupyter Notebook** – interactive project environment
+
+These tools are standard in machine learning workflows and widely used by practitioners. :contentReference[oaicite:0]{index=0}
+
+---
+
+## Repository Structure
+
+The coursework is organized into units in separate folders. Each unit contains notebooks or code files demonstrating specific machine learning tasks or exercises.
